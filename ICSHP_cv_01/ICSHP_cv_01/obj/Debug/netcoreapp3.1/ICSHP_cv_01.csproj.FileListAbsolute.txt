@@ -1,0 +1,13 @@
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\bin\Debug\netcoreapp3.1\ICSHP_cv_01.exe
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\bin\Debug\netcoreapp3.1\ICSHP_cv_01.deps.json
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\bin\Debug\netcoreapp3.1\ICSHP_cv_01.runtimeconfig.json
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\bin\Debug\netcoreapp3.1\ICSHP_cv_01.runtimeconfig.dev.json
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\bin\Debug\netcoreapp3.1\ICSHP_cv_01.dll
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\bin\Debug\netcoreapp3.1\ICSHP_cv_01.pdb
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\obj\Debug\netcoreapp3.1\ICSHP_cv_01.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\obj\Debug\netcoreapp3.1\ICSHP_cv_01.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\obj\Debug\netcoreapp3.1\ICSHP_cv_01.AssemblyInfo.cs
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\obj\Debug\netcoreapp3.1\ICSHP_cv_01.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\obj\Debug\netcoreapp3.1\ICSHP_cv_01.dll
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\obj\Debug\netcoreapp3.1\ICSHP_cv_01.pdb
+C:\Users\mateu\source\repos\ICSHP_cv_01\ICSHP_cv_01\obj\Debug\netcoreapp3.1\ICSHP_cv_01.genruntimeconfig.cache
