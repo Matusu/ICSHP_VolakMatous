@@ -1,0 +1,16 @@
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\bin\Debug\net5.0\ICSHP_cv03.exe
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\bin\Debug\net5.0\ICSHP_cv03.deps.json
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\bin\Debug\net5.0\ICSHP_cv03.runtimeconfig.json
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\bin\Debug\net5.0\ICSHP_cv03.runtimeconfig.dev.json
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\bin\Debug\net5.0\ICSHP_cv03.dll
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\bin\Debug\net5.0\ref\ICSHP_cv03.dll
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\bin\Debug\net5.0\ICSHP_cv03.pdb
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\obj\Debug\net5.0\ICSHP_cv03.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\obj\Debug\net5.0\ICSHP_cv03.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\obj\Debug\net5.0\ICSHP_cv03.AssemblyInfoInputs.cache
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\obj\Debug\net5.0\ICSHP_cv03.AssemblyInfo.cs
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\obj\Debug\net5.0\ICSHP_cv03.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\obj\Debug\net5.0\ICSHP_cv03.dll
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\obj\Debug\net5.0\ref\ICSHP_cv03.dll
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\obj\Debug\net5.0\ICSHP_cv03.pdb
+D:\VisualStudio_Projects\ICSHP_cv03\ICSHP_cv03\ICSHP_cv03\obj\Debug\net5.0\ICSHP_cv03.genruntimeconfig.cache

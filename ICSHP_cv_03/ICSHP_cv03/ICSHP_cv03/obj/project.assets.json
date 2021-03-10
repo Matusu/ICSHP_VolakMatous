@@ -1,30 +1,11 @@
 {
   "version": 3,
   "targets": {
-    ".NETCoreApp,Version=v3.1": {
-      "BaseLib/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v3.1",
-        "compile": {
-          "bin/placeholder/BaseLib.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/BaseLib.dll": {}
-        }
-      }
-    }
+    "net5.0": {}
   },
-  "libraries": {
-    "BaseLib/1.0.0": {
-      "type": "project",
-      "path": "../BaseLib/BaseLib.csproj",
-      "msbuildProject": "../BaseLib/BaseLib.csproj"
-    }
-  },
+  "libraries": {},
   "projectFileDependencyGroups": {
-    ".NETCoreApp,Version=v3.1": [
-      "BaseLib >= 1.0.0"
-    ]
+    "net5.0": []
   },
   "packageFolders": {
     "C:\\Users\\volak\\.nuget\\packages\\": {}
@@ -32,31 +13,27 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\ICSHP_cv_02\\ICSHP_cv_02.csproj",
-      "projectName": "ICSHP_cv_02",
-      "projectPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\ICSHP_cv_02\\ICSHP_cv_02.csproj",
+      "projectUniqueName": "D:\\VisualStudio_Projects\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03.csproj",
+      "projectName": "ICSHP_cv03",
+      "projectPath": "D:\\VisualStudio_Projects\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03.csproj",
       "packagesPath": "C:\\Users\\volak\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\ICSHP_cv_02\\obj\\",
+      "outputPath": "D:\\VisualStudio_Projects\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\volak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "netcoreapp3.1"
+        "net5.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "netcoreapp3.1": {
-          "targetAlias": "netcoreapp3.1",
-          "projectReferences": {
-            "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\BaseLib\\BaseLib.csproj": {
-              "projectPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\BaseLib\\BaseLib.csproj"
-            }
-          }
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {}
         }
       },
       "warningProperties": {
@@ -66,8 +43,8 @@
       }
     },
     "frameworks": {
-      "netcoreapp3.1": {
-        "targetAlias": "netcoreapp3.1",
+      "net5.0": {
+        "targetAlias": "net5.0",
         "imports": [
           "net461",
           "net462",
