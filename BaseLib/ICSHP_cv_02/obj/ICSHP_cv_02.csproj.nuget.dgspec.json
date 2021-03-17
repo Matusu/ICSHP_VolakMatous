@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mateu\\source\\repos\\BaseLib\\ICSHP_cv_02\\ICSHP_cv_02.csproj": {}
+    "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\ICSHP_cv_02\\ICSHP_cv_02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mateu\\source\\repos\\BaseLib\\BaseLib\\BaseLib.csproj": {
+    "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\BaseLib\\BaseLib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\source\\repos\\BaseLib\\BaseLib\\BaseLib.csproj",
+        "projectUniqueName": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\BaseLib\\BaseLib.csproj",
         "projectName": "BaseLib",
-        "projectPath": "C:\\Users\\mateu\\source\\repos\\BaseLib\\BaseLib\\BaseLib.csproj",
-        "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\source\\repos\\BaseLib\\BaseLib\\obj\\",
+        "projectPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\BaseLib\\BaseLib.csproj",
+        "packagesPath": "C:\\Users\\volak\\.nuget\\packages\\",
+        "outputPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\BaseLib\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\volak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -54,21 +54,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\mateu\\source\\repos\\BaseLib\\ICSHP_cv_02\\ICSHP_cv_02.csproj": {
+    "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\ICSHP_cv_02\\ICSHP_cv_02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mateu\\source\\repos\\BaseLib\\ICSHP_cv_02\\ICSHP_cv_02.csproj",
+        "projectUniqueName": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\ICSHP_cv_02\\ICSHP_cv_02.csproj",
         "projectName": "ICSHP_cv_02",
-        "projectPath": "C:\\Users\\mateu\\source\\repos\\BaseLib\\ICSHP_cv_02\\ICSHP_cv_02.csproj",
-        "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mateu\\source\\repos\\BaseLib\\ICSHP_cv_02\\obj\\",
+        "projectPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\ICSHP_cv_02\\ICSHP_cv_02.csproj",
+        "packagesPath": "C:\\Users\\volak\\.nuget\\packages\\",
+        "outputPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\ICSHP_cv_02\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\volak\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -82,8 +82,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\mateu\\source\\repos\\BaseLib\\BaseLib\\BaseLib.csproj": {
-                "projectPath": "C:\\Users\\mateu\\source\\repos\\BaseLib\\BaseLib\\BaseLib.csproj"
+              "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\BaseLib\\BaseLib.csproj": {
+                "projectPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\BaseLib\\BaseLib.csproj"
               }
             }
           }
@@ -112,7 +112,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }

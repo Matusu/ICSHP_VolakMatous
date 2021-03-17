@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\mateu\\.nuget\\packages\\": {}
+    "C:\\Users\\volak\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mateu\\source\\repos\\BaseLib\\BaseLib\\BaseLib.csproj",
+      "projectUniqueName": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\BaseLib\\BaseLib.csproj",
       "projectName": "BaseLib",
-      "projectPath": "C:\\Users\\mateu\\source\\repos\\BaseLib\\BaseLib\\BaseLib.csproj",
-      "packagesPath": "C:\\Users\\mateu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mateu\\source\\repos\\BaseLib\\BaseLib\\obj\\",
+      "projectPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\BaseLib\\BaseLib.csproj",
+      "packagesPath": "C:\\Users\\volak\\.nuget\\packages\\",
+      "outputPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\BaseLib\\BaseLib\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mateu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\volak\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -60,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.101\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

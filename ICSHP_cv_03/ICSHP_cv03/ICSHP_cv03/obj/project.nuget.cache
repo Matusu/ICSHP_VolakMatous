@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "5n2dbZWmAX5rRh7B61YIlp2pc6yN9hd9hjF1J57aiG5IATHoNoNOJSvbrMUcGn6HQlW6K7d8RLq+Ibu54x53Pg==",
   "success": true,
   "projectFilePath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_03\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03.csproj",
+=======
+  "dgSpecHash": "TvCMD6oupnGUDBh8CkH8dQDibg8l5BTf9JuKYc6TfITOAGRvmcckW6dS6iEHMRx8GfVtPoPSV7xvF3eOpqi44w==",
+  "success": true,
+  "projectFilePath": "D:\\VisualStudio_Projects\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03.csproj",
+>>>>>>> 6de3d20365a89d5f165a9a57912e7a2dc63bfda5
   "expectedPackageFiles": [],
   "logs": []
 }

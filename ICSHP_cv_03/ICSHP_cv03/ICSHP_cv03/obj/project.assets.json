@@ -13,11 +13,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_03\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03.csproj",
       "projectName": "ICSHP_cv03",
       "projectPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_03\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03.csproj",
       "packagesPath": "C:\\Users\\volak\\.nuget\\packages\\",
       "outputPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_03\\ICSHP_cv03\\ICSHP_cv03\\obj\\",
+=======
+      "projectUniqueName": "D:\\VisualStudio_Projects\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03.csproj",
+      "projectName": "ICSHP_cv03",
+      "projectPath": "D:\\VisualStudio_Projects\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03.csproj",
+      "packagesPath": "C:\\Users\\volak\\.nuget\\packages\\",
+      "outputPath": "D:\\VisualStudio_Projects\\ICSHP_cv03\\ICSHP_cv03\\ICSHP_cv03\\obj\\",
+>>>>>>> 6de3d20365a89d5f165a9a57912e7a2dc63bfda5
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\volak\\AppData\\Roaming\\NuGet\\NuGet.Config",

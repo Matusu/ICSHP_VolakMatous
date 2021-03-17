@@ -7,3 +7,9 @@ C:\Users\mateu\source\repos\BaseLib\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.Asse
 C:\Users\mateu\source\repos\BaseLib\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.csproj.CoreCompileInputs.cache
 C:\Users\mateu\source\repos\BaseLib\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.dll
 C:\Users\mateu\source\repos\BaseLib\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.pdb
+C:\Users\mateu\source\repos\ICSHP_VolakMatous\BaseLib\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.csprojAssemblyReference.cache
+C:\Users\mateu\source\repos\ICSHP_VolakMatous\BaseLib\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.AssemblyInfoInputs.cache
+C:\Users\mateu\source\repos\ICSHP_VolakMatous\BaseLib\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.AssemblyInfo.cs
+C:\Users\mateu\source\repos\ICSHP_VolakMatous\BaseLib\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.csproj.CoreCompileInputs.cache
+C:\Users\mateu\source\repos\ICSHP_VolakMatous\BaseLib\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.dll
+C:\Users\mateu\source\repos\ICSHP_VolakMatous\BaseLib\BaseLib\obj\Debug\netcoreapp3.1\BaseLib.pdb
