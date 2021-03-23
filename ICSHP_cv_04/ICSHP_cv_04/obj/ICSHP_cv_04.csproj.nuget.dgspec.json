@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VisualStudio_Projects\\ICSHP_cv_04\\ICSHP_cv_04\\ICSHP_cv_04.csproj": {}
+    "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_04\\ICSHP_cv_04\\ICSHP_cv_04.csproj": {}
   },
   "projects": {
-    "D:\\VisualStudio_Projects\\ICSHP_cv_04\\ICSHP_cv_04\\ICSHP_cv_04.csproj": {
+    "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_04\\ICSHP_cv_04\\ICSHP_cv_04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VisualStudio_Projects\\ICSHP_cv_04\\ICSHP_cv_04\\ICSHP_cv_04.csproj",
+        "projectUniqueName": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_04\\ICSHP_cv_04\\ICSHP_cv_04.csproj",
         "projectName": "ICSHP_cv_04",
-        "projectPath": "D:\\VisualStudio_Projects\\ICSHP_cv_04\\ICSHP_cv_04\\ICSHP_cv_04.csproj",
+        "projectPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_04\\ICSHP_cv_04\\ICSHP_cv_04.csproj",
         "packagesPath": "C:\\Users\\volak\\.nuget\\packages\\",
-        "outputPath": "D:\\VisualStudio_Projects\\ICSHP_cv_04\\ICSHP_cv_04\\obj\\",
+        "outputPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_04\\ICSHP_cv_04\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\volak\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -57,7 +57,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
         }
       }
     }
