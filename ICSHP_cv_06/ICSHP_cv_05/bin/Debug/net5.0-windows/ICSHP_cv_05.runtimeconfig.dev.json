@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\volak\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\volak\\.nuget\\packages"
+    ]
+  }
+}
