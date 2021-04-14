@@ -1,0 +1,16 @@
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\bin\Debug\net5.0\ICSHP_cv_08.exe
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\bin\Debug\net5.0\ICSHP_cv_08.deps.json
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\bin\Debug\net5.0\ICSHP_cv_08.runtimeconfig.json
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\bin\Debug\net5.0\ICSHP_cv_08.runtimeconfig.dev.json
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\bin\Debug\net5.0\ICSHP_cv_08.dll
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\bin\Debug\net5.0\ref\ICSHP_cv_08.dll
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\bin\Debug\net5.0\ICSHP_cv_08.pdb
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\obj\Debug\net5.0\ICSHP_cv_08.csprojAssemblyReference.cache
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\obj\Debug\net5.0\ICSHP_cv_08.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\obj\Debug\net5.0\ICSHP_cv_08.AssemblyInfoInputs.cache
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\obj\Debug\net5.0\ICSHP_cv_08.AssemblyInfo.cs
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\obj\Debug\net5.0\ICSHP_cv_08.csproj.CoreCompileInputs.cache
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\obj\Debug\net5.0\ICSHP_cv_08.dll
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\obj\Debug\net5.0\ref\ICSHP_cv_08.dll
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\obj\Debug\net5.0\ICSHP_cv_08.pdb
+D:\VisualStudio_Projects\ICSHP_VolakMatous\ICSHP_cv_08\ICSHP_cv_08\obj\Debug\net5.0\ICSHP_cv_08.genruntimeconfig.cache
