@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\VisualStudio_Projects\\ICSHP_cv08\\ICSHP_cv08\\ICSHP_cv08.csproj",
+      "projectUniqueName": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_08\\ICSHP_cv08\\ICSHP_cv08.csproj",
       "projectName": "ICSHP_cv08",
-      "projectPath": "D:\\VisualStudio_Projects\\ICSHP_cv08\\ICSHP_cv08\\ICSHP_cv08.csproj",
+      "projectPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_08\\ICSHP_cv08\\ICSHP_cv08.csproj",
       "packagesPath": "C:\\Users\\volak\\.nuget\\packages\\",
-      "outputPath": "D:\\VisualStudio_Projects\\ICSHP_cv08\\ICSHP_cv08\\obj\\",
+      "outputPath": "D:\\VisualStudio_Projects\\ICSHP_VolakMatous\\ICSHP_cv_08\\ICSHP_cv08\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\volak\\AppData\\Roaming\\NuGet\\NuGet.Config",
